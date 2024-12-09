@@ -794,6 +794,8 @@
     <string>ringcomb.glif</string>
     <key>ringcomb.cap</key>
     <string>ringcomb.cap.glif</string>
+    <key>rupeeIndian</key>
+    <string>rupeeI_ndian.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>s_p</key>
